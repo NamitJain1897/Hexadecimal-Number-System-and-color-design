@@ -1,0 +1,26 @@
+
+        *{
+background-color :#ff5e00
+        }
+        h1{
+            color :#ffffff;
+            font:100;
+        }
+        
+        .CRICKET{
+            border : solid;
+            border-color :#3cff00;
+            border-width: 1ch;
+            display : flex;
+            justify-content : space-evenly
+        }
+        .ABOUT {
+            color  : #001aff;
+            border : solid;
+            border-color : #00ffd5;
+            border-width : 0.7ch;
+            display: flex;
+            justify-content : space-evenly;
+            
+        }
+        
